@@ -1,0 +1,26 @@
+HTML,body{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 50%;
+    
+}
+.MainContainer{
+    
+}
+.inputField{
+    padding: 15px 5px 8px 15px;
+}
+.butt{
+    /* border-radius: 1px; */
+    /* padding-bottom: 10px; */
+    width: 60px;
+    height: 60px;
+}
+.buttonContainer{
+    padding: 4px 15px 5px 15px;
+    min-width: 300px;
+}
+.orange{
+    background-color: orange;
+}
